@@ -18,6 +18,7 @@
         - Additional information about change #1
 -->
 ## Upcoming Release
+* Add support for pull based deployments from a URL with MSI authentication in `Publish-AzWebApp`
 
 ## Version 3.3.0
 * Fixd the source app retrival from Microsoft.Web RP instead of ARM cache for `RestoreAzureWebAppSnapshot`
